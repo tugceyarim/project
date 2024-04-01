@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "npx tailwindcss -i ./input.css -o ./public/css/styles.css --watch"
+    //Bu komut sayesinde projeyi tekrar ayağa kaldırabildik
   },
   "keywords": [],
   "author": "",
